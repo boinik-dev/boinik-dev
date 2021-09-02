@@ -84,9 +84,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ### Blockchain & Crypto Currency & Smart Contract
 <br />
 
-### AR & VR Web and Mobile application
-<br />
-
 ### Video Conference Web and Mobile application
 <br />
 
