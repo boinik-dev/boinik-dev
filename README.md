@@ -8,7 +8,9 @@ I am also familiar with the latest technologies: SSR, SSG development using Next
 I have worked with startups from different businesses such as Healthcare, Blockchain, Real Estate, FinTech, Online Order Processing, E-commerce, etc.
 
 Courage, It's not too late to build a better world.
+
 Alone we can do so little but together we can do so much!
+
 Let's #BEAMAZING together!
 
 <p align="center"><img align="center" src="https://github.com/bstar1227/bstar1227/blob/master/header.png?raw=true" style = "width: -webkit-fill-available;"/></p>
