@@ -1,8 +1,15 @@
 ## 👋 Glad to see you here! <br />
 
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+I am a self-motivated full-stack developer with both of theoretical knowledge and hands-on experience in web development. I work well as not only an independent developer but also a committed team player.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.
+I have a solid background in building/troubleshooting complex web applications using React, Vue, Python, Node and Laravel.
+I am also familiar with the latest technologies: SSR, SSG development using Next.js, Nuxt.js, and Gatsby.
+
+I have worked with startups from different businesses such as Healthcare, Blockchain, Real Estate, FinTech, Online Order Processing, E-commerce, etc.
+
+Courage, It's not too late to build a better world.
+Alone we can do so little but together we can do so much!
+Let's #BEAMAZING together!
 
 <p align="center"><img align="center" src="https://github.com/bstar1227/bstar1227/blob/master/header.png?raw=true" style = "width: -webkit-fill-available;"/></p>
 <h1 align="center">
